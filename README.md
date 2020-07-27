@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 **I’m currently looking for full-time engineer job**
+- 📫 How to reach me: Skype (daonamtien)
+
+[![Tiendn's github stats](https://github-readme-stats.vercel.app/api?username=tiendn&show_icons=true&hide=[%22contribs%22,%22prs%22])](https://github.com/tiendn)
+
 <!--
 **tiendn/tiendn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
