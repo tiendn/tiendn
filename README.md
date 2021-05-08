@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently looking for full-time engineer job**
-- 📫 How to reach me: Skype (daonamtien)
+<!-- - 🔭 **I’m currently looking for full-time engineer job** 
+- 📫 How to reach me: Skype (daonamtien) -->
 
 [![Tiendn's github stats](https://github-readme-stats.vercel.app/api?username=tiendn&show_icons=true&hide=[%22contribs%22,%22prs%22])](https://github.com/tiendn)
 
