@@ -1,11 +1,9 @@
 
-### Hi, I'm Tien. 👋
+### Hi, I'm Tien Dao 👋
 
-- 💻 Frontend engineering (blockchain) 
+- 💻 Frontend engineer (blockchain) 
 - 🏡 Hanoi city, VietNam
-- Contributing opensource
-- Namada Crew ranking on top 100
-- dApp engineer (React)
-  
+- Opensource contributor
+- Namada crew in #100
 
 Nice to meet you!
