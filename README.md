@@ -3,7 +3,7 @@
 
 - 💻 Frontend engineer (blockchain) 
 - 🏡 Hanoi city, VietNam
-- Opensource contributor
+- Web3 Contributor: Hyperlane, Rainbow, ...
 - Namada crew in #100
 
 Nice to meet you!
