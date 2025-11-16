@@ -3,7 +3,7 @@
 
 **Hanoi, Vietnam**  
 [github.com/tiendn](https://github.com/tiendn)  
-[LinkedIn](https://linkedin.com/in/tien-dao-nam-163a32116) • [tiendn.works](https://tiendn.works)
+[LinkedIn](https://linkedin.com/in/tien-dao-nam-163a32116) 
 
 > **"Ship fast. Build trust. Own the stack."**
 
